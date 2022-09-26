@@ -1,0 +1,75 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: grey;
+    height: 200px;
+}
+
+header h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    padding: 60px;
+}
+
+body div {
+    text-align: right;
+    position: fixed;
+    bottom: 50px;
+    Right: 50px
+}
+
+body div a {
+    border: 3px solid black;
+    padding: 13px 20px 7px 20px;
+    border-radius: 100px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: grey;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
+
+body section article {
+    text-align: center;
+}
+
+body section h2 {
+    display: inline-block;
+}
+
+body section article h4 {
+    margin-bottom: 20px;
+}
+
+body section article {
+    margin-bottom: 20px;
+}
+
+.mini {
+    font-size: 15px;
+    color: grey;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+input {
+    margin-top: 10px;
+    border: 2px solid grey;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+body a{
+    text-decoration: none;
+    color: gray;
+}
